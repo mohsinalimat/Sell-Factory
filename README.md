@@ -11,6 +11,19 @@ A social Media platform for users to sell their products without a middle man. N
 - Follow/Unfollow users
 - Explore Products
 
+## Screenshots
+<p float = "left">
+  <img src = "Screenshots/s1.png" width = "200">
+  <img src = "Screenshots/s2.png" width = "200">
+  <img src = "Screenshots/s3.png" width = "200">
+  <img src = "Screenshots/s4.png" width = "200">
+</p>
+<p float = "left">
+  <img src = "Screenshots/s5.png" width = "200">
+  <img src = "Screenshots/s6.png" width = "200">
+  <img src = "Screenshots/s7.png" width = "200">
+</p>
+
 ## Contributing
 - [Pranav Badgi](https://www.pranavbadgi.com/)
 
